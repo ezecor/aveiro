@@ -10,7 +10,7 @@ var map = L.map('map', {
     center: [40.85, -8.41],
     minZoom: 9,
     maxZoom: 12,
-    //zoom: 8,
+    zoom: 10,
     pan: false,
     //zoomControl: false,
     layers: [CartoDB_Positron]
